@@ -1,0 +1,44 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# FastAPI
+*.log
+*.env
+*.env.*
+*.pickle
+*.pkl
+instance/
+venv/
+env/
+.env/
+*.bak
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.iml
+
+# Coverage reports
+.coverage
+*.coveragerc
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Docker
+.docker/
+docker-compose.yml
+
+# Virtual environment
+venv/
+.venv/
+.env/
+env/
